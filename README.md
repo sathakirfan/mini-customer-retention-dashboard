@@ -98,21 +98,33 @@ LocalPulse CRM exists to solve the **retention and pipeline visibility problems*
 
 ## 📸 Screenshots
 
-### Dashboard
+### 📊 Dashboard
+
 ![Dashboard](./screenshots/dashboard.png)
 
-### Lead Directory
+---
+
+### 👥 Lead Directory
+
 ![Lead Directory](./screenshots/leads_directory.png)
 
-### Analytics Dashboard
-![Analytics](./screenshots/analytics.png)
+---
 
-### Follow-ups
+### 📈 Analytics Dashboard
+
+![Analytics Dashboard](./screenshots/analytics.png)
+
+---
+
+### 📅 Follow-ups
+
 ![Follow-ups](./screenshots/followups.png)
 
-### Settings
-![Settings](./screenshots/settings.png)
 ---
+
+### ⚙️ Settings
+
+![Settings](./screenshots/settings.png)
 
 ## 📂 Folder Structure
 
